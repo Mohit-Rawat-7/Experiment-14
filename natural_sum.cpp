@@ -1,4 +1,4 @@
-//Mohit Singh Rawat  
+//Mohit Singh Rawat
 //23070123086
 # include<iostream>
 using namespace std;
@@ -24,6 +24,6 @@ int sum(int n)
     cout << "Enter a number : "<<endl;
     cin >> n ;
 
-    cout << n <<"Sum of numbers from 1 to "<<n<<" is: "<<" : "<<sum(n) ;
+    cout  <<"Sum of numbers from 1 to "<<n<<" is: "<<" : "<<sum(n) ;
  
 }
